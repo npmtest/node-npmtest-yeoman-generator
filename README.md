@@ -1,7 +1,7 @@
 # test coverage for  [yeoman-generator (v1.1.1)](http://yeoman.io)  [![npm package](https://img.shields.io/npm/v/npmtest-yeoman-generator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-yeoman-generator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-yeoman-generator.svg)](https://travis-ci.org/npmtest/node-npmtest-yeoman-generator)
 #### Rails-inspired generator system that provides scaffolding for your apps
 
-[![NPM](https://nodei.co/npm/yeoman-generator.png?downloads=true)](https://www.npmjs.com/package/yeoman-generator)
+[![NPM](https://nodei.co/npm/yeoman-generator.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/yeoman-generator)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-yeoman-generator/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-yeoman-generator/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-yeoman-generator/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-yeoman-generator/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-yeoman-generator/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-yeoman-generator/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-yeoman-generator/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-yeoman-generator/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-yeoman-generator/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-yeoman-generator/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-yeoman-generator%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-yeoman-generator/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-yeoman-generator/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-yeoman-generator/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-yeoman-generator/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-yeoman-generator%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-yeoman-generator/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-yeoman-generator/build/test-report.html](https://npmtest.github.io/node-npmtest-yeoman-generator/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-yeoman-generator/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-yeoman-generator/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-yeoman-generator/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-yeoman-generator/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-yeoman-generator/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-yeoman-generator/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-yeoman-generator/build/screenCapture.npmPackageListing.svg)
 
@@ -114,37 +120,29 @@
     "main": "lib",
     "maintainers": [
         {
-            "name": "addyosmani",
-            "email": "addyosmani@gmail.com"
+            "name": "addyosmani"
         },
         {
-            "name": "eddiemonge",
-            "email": "eddie+npm@eddiemonge.com"
+            "name": "eddiemonge"
         },
         {
-            "name": "mischah",
-            "email": "mail@michael-kuehnel.de"
+            "name": "mischah"
         },
         {
-            "name": "passy",
-            "email": "phartig@rdrei.net"
+            "name": "passy"
         },
         {
-            "name": "paulirish",
-            "email": "paul.irish@gmail.com"
+            "name": "paulirish"
         },
         {
-            "name": "sboudrias",
-            "email": "admin@simonboudrias.com"
+            "name": "sboudrias"
         },
         {
-            "name": "sindresorhus",
-            "email": "sindresorhus@gmail.com"
+            "name": "sindresorhus"
         }
     ],
     "name": "yeoman-generator",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/yeoman/generator.git"
