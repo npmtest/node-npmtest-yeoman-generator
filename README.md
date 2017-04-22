@@ -1,4 +1,7 @@
-# test coverage for  [yeoman-generator (v1.1.1)](http://yeoman.io)  [![npm package](https://img.shields.io/npm/v/npmtest-yeoman-generator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-yeoman-generator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-yeoman-generator.svg)](https://travis-ci.org/npmtest/node-npmtest-yeoman-generator)
+# npmtest-yeoman-generator
+
+#### basic test-coverage for  [yeoman-generator (v1.1.1)](http://yeoman.io)  [![npm package](https://img.shields.io/npm/v/npmtest-yeoman-generator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-yeoman-generator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-yeoman-generator.svg)](https://travis-ci.org/npmtest/node-npmtest-yeoman-generator)
+
 #### Rails-inspired generator system that provides scaffolding for your apps
 
 [![NPM](https://nodei.co/npm/yeoman-generator.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/yeoman-generator)
@@ -169,7 +172,8 @@
                 ]
             }
         ]
-    }
+    },
+    "bin": {}
 }
 ```
 
