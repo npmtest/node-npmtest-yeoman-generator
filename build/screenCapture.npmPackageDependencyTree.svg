@@ -27,8 +27,8 @@
 <tspan x="10" y="394">  │   └── isexe@2.0.0 </tspan>
 <tspan x="10" y="410">  ├── dargs@5.1.0 </tspan>
 <tspan x="10" y="426">  ├── dateformat@2.0.0 </tspan>
-<tspan x="10" y="442">  ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="458">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="442">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="458">  │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="474">  ├── detect-conflict@1.0.1 </tspan>
 <tspan x="10" y="490">  ├─┬ error@7.0.2 </tspan>
 <tspan x="10" y="506">  │ ├── string-template@0.2.1 </tspan>
@@ -81,7 +81,7 @@
 <tspan x="10" y="1258">  │ ├─┬ multimatch@2.1.0 </tspan>
 <tspan x="10" y="1274">  │ │ ├── array-differ@1.0.0 </tspan>
 <tspan x="10" y="1290">  │ │ └── arrify@1.0.1 </tspan>
-<tspan x="10" y="1306">  │ └─┬ vinyl@2.0.1 </tspan>
+<tspan x="10" y="1306">  │ └─┬ vinyl@2.0.2 </tspan>
 <tspan x="10" y="1322">  │   ├── clone@1.0.2 </tspan>
 <tspan x="10" y="1338">  │   ├── clone-buffer@1.0.0 </tspan>
 <tspan x="10" y="1354">  │   ├── clone-stats@1.0.0 </tspan>
@@ -105,7 +105,7 @@
 <tspan x="10" y="1642">  │   │ │ └─┬ error-ex@1.3.1 </tspan>
 <tspan x="10" y="1658">  │   │ │   └── is-arrayish@0.2.1 </tspan>
 <tspan x="10" y="1674">  │   │ └── strip-bom@3.0.0 </tspan>
-<tspan x="10" y="1690">  │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="1690">  │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="1706">  │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="1722">  │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="1738">  │   │ │ └── builtin-modules@1.1.1 </tspan>
@@ -119,9 +119,9 @@
 <tspan x="10" y="1866">  ├─┬ run-async@2.3.0 </tspan>
 <tspan x="10" y="1882">  │ └── is-promise@2.1.0 </tspan>
 <tspan x="10" y="1898">  ├─┬ shelljs@0.7.7 </tspan>
-<tspan x="10" y="1914">  │ ├── interpret@1.0.2 </tspan>
+<tspan x="10" y="1914">  │ ├── interpret@1.0.3 </tspan>
 <tspan x="10" y="1930">  │ └─┬ rechoir@0.6.2 </tspan>
-<tspan x="10" y="1946">  │   └─┬ resolve@1.3.2 </tspan>
+<tspan x="10" y="1946">  │   └─┬ resolve@1.3.3 </tspan>
 <tspan x="10" y="1962">  │     └── path-parse@1.0.5 </tspan>
 <tspan x="10" y="1978">  ├── text-table@0.2.0 </tspan>
 <tspan x="10" y="1994">  ├─┬ through2@2.0.3 </tspan>
